@@ -10,18 +10,17 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            PhanSo phanSo = new PhanSo();
-            phanSo.Nhap();
-            phanSo.Xuat();
-            PhanSo phanSo2 = new PhanSo(3,4);
-            PhanSo Tong = new PhanSo();
-            Tong = phanSo + phanSo2;
-            Tong.Xuat();
-            Console.WriteLine(Tong.ToString());
-            ConVat conVat = new ConCho();
-            Console.ReadKey();
-
-
+            List<Doi> DSdoi = new List<Doi>();
+            for(int i=0;i<8;i++)
+            {
+                // Doi thu i+1
+                Doi doi1 = new Doi();
+                doi1.NhapThongTinDoi();
+                doi1.NhapThongTinTVTrongDoi();
+                DSdoi.Add(doi1);
+            }
+            KetQuaThiDau ketQuaThiDau = new KetQuaThiDau(DSdoi);
+            ketQuaThiDau.Xuat();
         }
     }
 }

@@ -12,7 +12,7 @@ namespace OOP
     {
         private int tu;
         private int mau;
-
+        protected int tong;
         public int Tu { get => tu; set => tu = value; }
         public int Mau { get => mau; set => mau = value; }
 
@@ -61,5 +61,12 @@ namespace OOP
             return kq;
         }
 
+    }
+    class test: PhanSo
+    {
+        void Test()
+        {
+            this.
+        }
     }
 }
