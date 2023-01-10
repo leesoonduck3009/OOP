@@ -1,0 +1,8 @@
+C:\Data\UIT\HK3\IT008\CB Thi\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Data\UIT\HK3\IT008\CB Thi\OOP\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\Data\UIT\HK3\IT008\CB Thi\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Data\UIT\HK3\IT008\CB Thi\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Data\UIT\HK3\IT008\CB Thi\OOP\OOP\bin\Debug\OOP.exe
+C:\Data\UIT\HK3\IT008\CB Thi\OOP\OOP\bin\Debug\OOP.pdb
+C:\Data\UIT\HK3\IT008\CB Thi\OOP\OOP\obj\Debug\OOP.exe
+C:\Data\UIT\HK3\IT008\CB Thi\OOP\OOP\obj\Debug\OOP.pdb
